@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KiduseHilegebrial
-- 👀 I’m interested in Web Devloping, Software, Robotics etc. 
-- 🌱 I’m currently learning JavaScript & Java
+- 👀 I’m interested in Machine Learning, AI, Robotics, Infromation Technology
+- 🌱 I’m currently learning Python & Java & Linux
 - 💞️ I’m looking to collaborate on Nothing right now
 - 📫 How to reach me ...
 <!---
