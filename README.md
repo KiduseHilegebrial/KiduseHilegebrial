@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiduseHilegebrial
+- 👋 Hi, I’m @Deuce
 - 👀 I’m interested in Machine Learning, AI, Robotics, Infromation Security/Technology
 - 🌱 I’m currently learning Python & Java & Linux
 - 💞️ I’m looking to collaborate on my startup
